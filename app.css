@@ -1,5 +1,16 @@
+/*body
+{
+    display:flex;
+    justify-content:center;
+    height:100vh;
+    background-color:black;
+}
 h1{
-    color:aquamarine;
-    font-size: 20px;
-    align-items: center;
+    font-size:15rem;
+}
+.letter{
+    transition: color 2000ms;
+}*/
+.col{
+    color: green;
 }
