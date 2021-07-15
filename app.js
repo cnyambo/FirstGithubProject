@@ -13,5 +13,8 @@ setInterval(function(){
     }
     
 }, 1000);
-const h = document.querySelector('h1');
+/*const h = document.querySelector('h1');
 h.style.textAlign="center";
+h.style.position="fixed";
+h.style.top="50%";
+h.style.left="50%";*/

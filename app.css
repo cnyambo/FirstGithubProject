@@ -1,4 +1,4 @@
-/*body
+body
 {
     display:flex;
     justify-content:center;
@@ -10,7 +10,7 @@ h1{
 }
 .letter{
     transition: color 2000ms;
-}*/
+}
 .col{
     color: green;
 }
