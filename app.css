@@ -3,15 +3,15 @@ body
     display:flex;
     justify-content:center;
     height:100vh;
-    background-color:aquamarine;
+    background-color:cyan;
 }
 
 h1{
     font-size:15rem;
 }
 .letter{
-    transition: color 2000ms;
+    transition: color 1000ms;
 }
 .col{
-    color: green;
+    color:purple;
 }
